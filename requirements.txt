@@ -37,7 +37,7 @@ Jinja2==2.10
 langtable==0.0.51
 libcomps==0.1.16
 libvirt-python==6.0.0
-lxml==4.5.0
+lxml==4.6.5
 MarkupSafe==2.0.1
 more-itertools==5.0.0
 msgpack==1.0.2
