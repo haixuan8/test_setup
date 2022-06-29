@@ -33,7 +33,7 @@ jaraco.collections==3.4.0
 jaraco.functools==3.3.0
 jaraco.text==3.5.1
 jdcal==1.4.1
-Jinja2==2.10
+Jinja2==2.11.3
 langtable==0.0.51
 libcomps==0.1.16
 libvirt-python==6.0.0
