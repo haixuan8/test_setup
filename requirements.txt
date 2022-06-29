@@ -54,7 +54,7 @@ oslo.i18n==5.1.0
 oslo.serialization==4.2.0
 oslo.utils==4.10.0
 packaging==21.0
-paramiko==2.4.2
+paramiko==2.10.1
 pbr==5.6.0
 pcp==5.0
 perf==0.1
