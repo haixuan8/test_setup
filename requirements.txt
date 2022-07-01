@@ -73,7 +73,7 @@ pytz
 pyudev
 #pyxdg
 pyxdg
-#PyYAML
+PyYAML
 reportlab
 repoze.lru
 requests
