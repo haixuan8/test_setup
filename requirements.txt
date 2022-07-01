@@ -33,7 +33,7 @@ keyring
 launchpadlib
 lazr.restfulclient
 lazr.uri
-libvirt-python
+# libvirt-python
 lxml
 macaroonbakery
 MarkupSafe
