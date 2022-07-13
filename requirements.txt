@@ -74,7 +74,7 @@ pyudev
 #pyxdg
 pyxdg
 PyYAML
-reportlab
+#reportlab
 repoze.lru
 requests
 requests-unixsocket
@@ -97,4 +97,3 @@ wrapt
 xlrd
 zc.lockfile
 #pyparted
-
